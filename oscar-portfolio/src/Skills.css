@@ -1,0 +1,36 @@
+.skillsContainer {
+    background: #526768;
+    margin-top: 20px;
+    color: #d9d4ce;
+}
+.skillsContainer .col {
+    border: 1px solid #c0ded9;
+    padding-top: 40px;
+}
+.icons {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.skillsContainer h3 {
+    text-transform: uppercase;
+}
+ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+.tools {
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: underline;
+}
+ul li {
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+@media screen and (max-width: 780px) {
+    .row {
+        display: block !important;
+    }
+}

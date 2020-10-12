@@ -1,0 +1,38 @@
+.footer {
+    background: #b2c2bf !important;
+}
+.footer p {
+    font-size: 30px;
+    font-weight: 600;
+}
+.email {
+    font-size: 20px !important;
+}
+.footer .row {
+    padding-top: 30px;
+}
+.fa-linkedin-in {
+    font-size: 25px;
+    text-decoration: none;
+    color: #222;
+}
+.fa-instagram {
+    font-size: 25px;
+    text-decoration: none;
+    color: #222;
+}
+.footer .fa-github:hover {
+    color: #5B7C81;
+}
+.fa-linkedin-in:hover {
+    color: #5B7C81;
+}
+.fa-instagram:hover {
+    color: #5B7C81;
+}
+@media screen and (max-width: 781px) {
+    .footer .col {
+        padding-bottom: 20px;
+        display: inline-block;
+    }
+}
