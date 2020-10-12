@@ -1,0 +1,27 @@
+.projectsContainer {
+    padding-top: 40px;
+}
+.projectsContainer h2 {
+    font-weight: 600 !important;
+    font-size: 1.75rem !important;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    color: #495950;
+}
+.projectsContainer .row {
+    padding-bottom: 20px;
+}
+.card {
+    width: auto !important;
+}
+.fa-github {
+    font-size: 30px;
+    color: #222;
+}
+.fa-tools {
+    padding-right: 5px;
+}
+.card-img-top {
+    height: 100%;
+    width: 100%;
+}
