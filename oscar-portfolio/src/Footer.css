@@ -1,5 +1,6 @@
 .footer {
-    background: #b2c2bf !important;
+    background: #008080 !important;
+    color: #fff;
 }
 .footer p {
     font-size: 30px;
@@ -14,21 +15,24 @@
 .fa-linkedin-in {
     font-size: 25px;
     text-decoration: none;
-    color: #222;
+    color: #ADBFC3;
+}
+.footer .fa-github {
+    color: #ADBFC3;
 }
 .fa-instagram {
     font-size: 25px;
     text-decoration: none;
-    color: #222;
+    color: #ADBFC3;
 }
 .footer .fa-github:hover {
-    color: #5B7C81;
+    color: #fff;
 }
 .fa-linkedin-in:hover {
-    color: #5B7C81;
+    color: #fff;
 }
 .fa-instagram:hover {
-    color: #5B7C81;
+    color: #fff;
 }
 @media screen and (max-width: 781px) {
     .footer .col {

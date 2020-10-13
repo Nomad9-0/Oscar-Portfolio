@@ -1,15 +1,15 @@
 html {
-    background-color: #d9d4ce;
+    background-color: #fff;
 }
 #root {
-    background-color: #d9d4ce;
+    background-color: #fff;
 }
 .app {
     text-align: center;
     width: 1240px;
     margin-right: auto;
     margin-left: auto;
-    background-color: #d9d4ce;
+    background-color: #fff;
 }
 @media screen and (max-width: 1240px) {
     .app{

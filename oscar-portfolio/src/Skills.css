@@ -1,7 +1,7 @@
 .skillsContainer {
-    background: #526768;
+    background: #ADBFC3;
     margin-top: 20px;
-    color: #d9d4ce;
+    color: #333;
 }
 .skillsContainer .col {
     border: 1px solid #c0ded9;
@@ -21,7 +21,7 @@ ul {
 .tools {
     font-size: 20px;
     font-weight: 600;
-    color: #fff;
+    color: #222;
     text-decoration: underline;
 }
 ul li {
