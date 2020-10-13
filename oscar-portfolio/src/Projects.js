@@ -79,7 +79,7 @@ function Projects() {
             </Col>
             <Col>
                 <Card style={{ width: '18rem' }}>
-                <a href="https://nomad9-0.github.io/Nomad/">
+                <a href="https://nomad9-0.github.io/roots-dispensary/index.html">
                         <Card.Img variant="top" src={require('./images/roots.JPG')} alt="The Roots Dispensary" width="300" height="180" />
                     </a>
                     <Card.Body>
@@ -91,7 +91,7 @@ function Projects() {
                             <i className="fas fa-tools"></i>
                             In Development
                         </Card.Text>
-                        <a href='https://nomad9-0.github.io/roots-dispensary/index.html'>
+                        <a href='https://github.com/Nomad9-0/roots-dispensary'>
                             <i className="fab fa-github"></i>
                         </a>
                     </Card.Body>
