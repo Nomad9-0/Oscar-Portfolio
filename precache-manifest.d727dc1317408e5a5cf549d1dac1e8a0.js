@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "590b3aadaf8804f525cad3a3d9477eb6",
+    "revision": "216b495b5ac73bd64dd3cc24eaea347c",
     "url": "/Oscar-Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Oscar-Portfolio/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "fa4f6ea0105d29dc789a",
-    "url": "/Oscar-Portfolio/static/css/main.4818041b.chunk.css"
+    "revision": "782e180244398ea5a71d",
+    "url": "/Oscar-Portfolio/static/css/main.1ca1ffea.chunk.css"
   },
   {
     "revision": "e16feca4c56437783840",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Oscar-Portfolio/static/js/2.2494ac24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa4f6ea0105d29dc789a",
+    "revision": "782e180244398ea5a71d",
     "url": "/Oscar-Portfolio/static/js/main.da739146.chunk.js"
   },
   {
