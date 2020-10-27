@@ -10,7 +10,7 @@ function Hero() {
             <Container>
                 <img className='oscarPic' src={require('./images/oscar.jpg')}alt="Oscar" />
                 <h1>Oscar Jimenez: Software Developer</h1>
-                <h2>I create web apps and SEO optamized websites</h2>
+                <h2>I create web apps and SEO optimized websites</h2>
             </Container>
         </Jumbotron>
         <div className='about' id='home'>
