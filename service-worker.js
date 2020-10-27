@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Oscar-Portfolio/precache-manifest.99c5b11c4ab5242bc3a551c66b6a3ed2.js"
+  "/Oscar-Portfolio/precache-manifest.a8b3a1d16694e800229679afcce1eb81.js"
 );
 
 self.addEventListener('message', (event) => {
