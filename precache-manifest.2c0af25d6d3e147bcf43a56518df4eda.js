@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7863d66128d289459cb0b1ff9694f8b5",
+    "revision": "a9afb0a9d45386fd37b1935a0dc467e2",
     "url": "/Oscar-Portfolio/index.html"
   },
   {
-    "revision": "e16feca4c56437783840",
+    "revision": "19a223d37f33a95c5ef5",
     "url": "/Oscar-Portfolio/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "318406e595bcc313eab9",
+    "revision": "3d51be9eaee9c599bc9c",
     "url": "/Oscar-Portfolio/static/css/main.1ca1ffea.chunk.css"
   },
   {
-    "revision": "e16feca4c56437783840",
-    "url": "/Oscar-Portfolio/static/js/2.2494ac24.chunk.js"
+    "revision": "19a223d37f33a95c5ef5",
+    "url": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/Oscar-Portfolio/static/js/2.2494ac24.chunk.js.LICENSE.txt"
+    "url": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "318406e595bcc313eab9",
-    "url": "/Oscar-Portfolio/static/js/main.3045a00b.chunk.js"
+    "revision": "3d51be9eaee9c599bc9c",
+    "url": "/Oscar-Portfolio/static/js/main.a165342f.chunk.js"
   },
   {
     "revision": "4f04c97e1a5668454fa4",
     "url": "/Oscar-Portfolio/static/js/runtime-main.b3b3b38d.js"
+  },
+  {
+    "revision": "2db814c10805190a499d82def024ea66",
+    "url": "/Oscar-Portfolio/static/media/Frostmaiden.2db814c1.JPG"
   },
   {
     "revision": "d0287f6d4f8c34bcd3db4bb1aa2f757f",
