@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Oscar-Portfolio/static/css/main.1ca1ffea.chunk.css",
-    "main.js": "/Oscar-Portfolio/static/js/main.a165342f.chunk.js",
-    "main.js.map": "/Oscar-Portfolio/static/js/main.a165342f.chunk.js.map",
+    "main.js": "/Oscar-Portfolio/static/js/main.7c770237.chunk.js",
+    "main.js.map": "/Oscar-Portfolio/static/js/main.7c770237.chunk.js.map",
     "runtime-main.js": "/Oscar-Portfolio/static/js/runtime-main.b3b3b38d.js",
     "runtime-main.js.map": "/Oscar-Portfolio/static/js/runtime-main.b3b3b38d.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Oscar-Portfolio/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.12764bab.chunk.js": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js",
     "static/js/2.12764bab.chunk.js.map": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js.map",
     "index.html": "/Oscar-Portfolio/index.html",
-    "precache-manifest.2c0af25d6d3e147bcf43a56518df4eda.js": "/Oscar-Portfolio/precache-manifest.2c0af25d6d3e147bcf43a56518df4eda.js",
+    "precache-manifest.65a09635d39e638a4fe14fa97f80357a.js": "/Oscar-Portfolio/precache-manifest.65a09635d39e638a4fe14fa97f80357a.js",
     "service-worker.js": "/Oscar-Portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Oscar-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.1ca1ffea.chunk.css.map": "/Oscar-Portfolio/static/css/main.1ca1ffea.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.12764bab.chunk.js",
     "static/css/main.1ca1ffea.chunk.css",
-    "static/js/main.a165342f.chunk.js"
+    "static/js/main.7c770237.chunk.js"
   ]
 }
