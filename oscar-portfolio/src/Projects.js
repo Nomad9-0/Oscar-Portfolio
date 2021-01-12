@@ -114,6 +114,60 @@ function Projects() {
                 </Card>
             </Col>
         </Row>
+        <Row>
+            <Col>
+                <Card style={{ width: '18rem' }}>
+                    <a href="https://nomad9-0.github.io/frostmaiden-character-secrets/">
+                        <Card.Img variant="top" src={require('./images/Frostmaiden.JPG')} alt="Friend Finder" width="300" height="180" />
+                    </a>
+                    <Card.Body>
+                        <Card.Title>Rime of the Frostmaiden Secret Generator</Card.Title>
+                        <Card.Text>
+                            A web app for the Dungeons & Dragons rpg campaign Icewinddale: Rime of the Frostmaiden. This web app generates a secret at random for players backstories. Technologies: React 
+                        </Card.Text>
+                        <a href='https://github.com/Nomad9-0/frostmaiden-character-secrets'>
+                            <i className="fab fa-github"></i>
+                        </a>
+                    </Card.Body>
+                </Card>
+            </Col>
+            <Col>
+                <Card style={{ width: '18rem' }}>
+                <a href="https://nomad9-0.github.io/roots-dispensary/index.html">
+                        <Card.Img variant="top" src={require('./images/roots.JPG')} alt="The Roots Dispensary" width="300" height="180" />
+                    </a>
+                    <Card.Body>
+                        <Card.Title>The Roots Dispensary</Card.Title>
+                        <Card.Text>
+                        Freelance website for a local dispensary to improve design, SEO, and webstore traffic.
+                        </Card.Text>
+                        <Card.Text>
+                            <i className="fas fa-tools"></i>
+                            In Development
+                        </Card.Text>
+                        <a href='https://github.com/Nomad9-0/roots-dispensary'>
+                            <i className="fab fa-github"></i>
+                        </a>
+                    </Card.Body>
+                </Card>
+            </Col>
+            <Col>
+                <Card style={{ width: '18rem' }}>
+                    <a href="https://nomad9-0.github.io/Nomad/">
+                        <Card.Img variant="top" src={require('./images/nomad.JPG')} alt="nomad Travel App" width="300" height="180" />
+                    </a>
+                    <Card.Body>
+                        <Card.Title>Nomad</Card.Title>
+                        <Card.Text>
+                        A web app designed for travelers who wish to get their destinations weather, news, and events all in one place. Technologies used were HTML, CSS, JavaScript, jQuery, Firebase, OpenWeather API, New York Time APi, and TicketMaster API.
+                        </Card.Text>
+                        <a href='https://github.com/Nomad9-0/Nomad'>
+                            <i className="fab fa-github"></i>
+                        </a>
+                    </Card.Body>
+                </Card>
+            </Col>
+        </Row>
        </Container>
     </>
     )
