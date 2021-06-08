@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Oscar-Portfolio/static/css/main.1ca1ffea.chunk.css",
-    "main.js": "/Oscar-Portfolio/static/js/main.7c770237.chunk.js",
-    "main.js.map": "/Oscar-Portfolio/static/js/main.7c770237.chunk.js.map",
+    "main.js": "/Oscar-Portfolio/static/js/main.60ea525d.chunk.js",
+    "main.js.map": "/Oscar-Portfolio/static/js/main.60ea525d.chunk.js.map",
     "runtime-main.js": "/Oscar-Portfolio/static/js/runtime-main.b3b3b38d.js",
     "runtime-main.js.map": "/Oscar-Portfolio/static/js/runtime-main.b3b3b38d.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Oscar-Portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.12764bab.chunk.js": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js",
-    "static/js/2.12764bab.chunk.js.map": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js.map",
+    "static/js/2.563e77c5.chunk.js": "/Oscar-Portfolio/static/js/2.563e77c5.chunk.js",
+    "static/js/2.563e77c5.chunk.js.map": "/Oscar-Portfolio/static/js/2.563e77c5.chunk.js.map",
     "index.html": "/Oscar-Portfolio/index.html",
-    "precache-manifest.65a09635d39e638a4fe14fa97f80357a.js": "/Oscar-Portfolio/precache-manifest.65a09635d39e638a4fe14fa97f80357a.js",
+    "precache-manifest.6a2f6d30163b1ca39204b6403e4523d0.js": "/Oscar-Portfolio/precache-manifest.6a2f6d30163b1ca39204b6403e4523d0.js",
     "service-worker.js": "/Oscar-Portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Oscar-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.1ca1ffea.chunk.css.map": "/Oscar-Portfolio/static/css/main.1ca1ffea.chunk.css.map",
-    "static/js/2.12764bab.chunk.js.LICENSE.txt": "/Oscar-Portfolio/static/js/2.12764bab.chunk.js.LICENSE.txt",
+    "static/js/2.563e77c5.chunk.js.LICENSE.txt": "/Oscar-Portfolio/static/js/2.563e77c5.chunk.js.LICENSE.txt",
     "static/media/Frostmaiden.JPG": "/Oscar-Portfolio/static/media/Frostmaiden.2db814c1.JPG",
     "static/media/currency.JPG": "/Oscar-Portfolio/static/media/currency.d0287f6d.JPG",
     "static/media/doggy.JPG": "/Oscar-Portfolio/static/media/doggy.14cefb17.JPG",
@@ -21,13 +21,14 @@
     "static/media/mentor-me.jpg": "/Oscar-Portfolio/static/media/mentor-me.e9721b0d.jpg",
     "static/media/nomad.JPG": "/Oscar-Portfolio/static/media/nomad.08ab65fe.JPG",
     "static/media/oscar.jpg": "/Oscar-Portfolio/static/media/oscar.684d026d.jpg",
-    "static/media/roots.JPG": "/Oscar-Portfolio/static/media/roots.32d4369c.JPG"
+    "static/media/roots.JPG": "/Oscar-Portfolio/static/media/roots.32d4369c.JPG",
+    "static/media/todo-list.JPG": "/Oscar-Portfolio/static/media/todo-list.7c3683c8.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.b3b3b38d.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.12764bab.chunk.js",
+    "static/js/2.563e77c5.chunk.js",
     "static/css/main.1ca1ffea.chunk.css",
-    "static/js/main.7c770237.chunk.js"
+    "static/js/main.60ea525d.chunk.js"
   ]
 }
