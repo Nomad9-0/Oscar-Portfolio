@@ -131,6 +131,22 @@ function Projects() {
                     </Card.Body>
                 </Card>
             </Col>
+            <Col sm={4}>
+                <Card style={{ width: '18rem' }}>
+                    <a href="https://nomad9-0.github.io/react-to-do-list/">
+                        <Card.Img variant="top" src={require('./images/todo-list.JPG')} alt="Friend Finder" width="300" height="180" />
+                    </a>
+                    <Card.Body>
+                        <Card.Title>React To Do List</Card.Title>
+                        <Card.Text>
+                            A simple to do list created in React to practice react hooks. Users can create, edit, and delete tasks. 
+                        </Card.Text>
+                        <a href='https://nomad9-0.github.io/react-to-do-list/'>
+                            <i className="fab fa-github"></i>
+                        </a>
+                    </Card.Body>
+                </Card>
+            </Col>
             
         </Row>
        </Container>
