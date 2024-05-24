@@ -50,7 +50,7 @@ function Projects() {
             <Col>
                 <Card style={{ width: '18rem' }}>
                     <a href="https://preview.webflow.com/preview/lost-dungeons?utm_medium=preview_link&utm_source=designer&utm_content=lost-dungeons&preview=c0fffd65873a619faec38d9b7cc64a25&workflow=preview">
-                        <Card.Img variant="top" src={require('./images/lostDungeon.gif')} alt="Lost DUngeon game" width="300" height="180" />
+                        <Card.Img variant="top" src={require('./images/lostDungeon.gif')} alt="Lost Dungeon game" width="300" height="180" />
                     </a>
                     <Card.Body>
                         <Card.Title>Lost Dungeon</Card.Title>
