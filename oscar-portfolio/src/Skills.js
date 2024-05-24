@@ -18,10 +18,9 @@ function Skills() {
                         <li>CSS</li>
                         <li>Bootstrap</li>
                         <li>JavaScript</li>
+                        <li>TypeScript</li>
                         <li>React</li>
                         <li>jQuery</li>
-                        <li>Handlebars</li>
-                        <li>Responsive Design</li> 
                     </ul>
                 </Col>
                 <Col>
@@ -34,11 +33,9 @@ function Skills() {
                         <li>Firebase</li>
                         <li>MySQL</li>
                         <li>MongoDB</li>
-                        <li>Mongoose</li>
-                        <li>AJAX</li>
+                        <li>C#</li>
                         <li>APIs</li> 
                         <li>JSON</li>
-                        <li>Java</li>
                     </ul>
                 </Col>
                 <Col>
@@ -46,7 +43,6 @@ function Skills() {
                     <h3>Other</h3>
                     <p className='tools'>Tools</p>
                     <ul>
-                        <li>Command Line</li>
                         <li>Git</li>
                         <li>Github</li>
                         <li>Heroku</li>
