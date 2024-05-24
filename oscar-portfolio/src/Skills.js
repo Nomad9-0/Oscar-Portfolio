@@ -45,9 +45,11 @@ function Skills() {
                     <ul>
                         <li>Git</li>
                         <li>Github</li>
-                        <li>Heroku</li>
-                        <li>Bitbucket</li>
+                        <li>Unity</li>
+                        <li>Webflow</li>
+                        <li>Shopify</li>
                         <li>SEO</li> 
+                        <li>Marketo</li>
                     </ul>
                 </Col>
             </Row>
