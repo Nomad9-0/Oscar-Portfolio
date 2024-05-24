@@ -18,7 +18,7 @@ function Hero() {
             <p>
                 After College I worked as an analyst for Johnson & Johnson traveling all over the USA and coming up with business strategies to increase revenue and inventory turnover. 
                 I lead a team of 18 professionals and designed and implemented strategies and methods to meet our goals. 
-                It is here where I was introduced to programming and began my journey to become a Full Stack Web Developer.
+                It is here where I was introduced to programming and began my journey to become a Full Stack Developer.
             </p>
             <p>
                 I began teaching myself web-developing skills in late 2016 and began taking on freelancing jobs in late 2017. 
